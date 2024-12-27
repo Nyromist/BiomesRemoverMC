@@ -4,3 +4,5 @@ More stuff coming soon maybe.
 
 To use it, download the files and open BiomeRemoverTool.html.
 Then follow the steps.
+
+This was a fun quick project to make. I hope it is useful
